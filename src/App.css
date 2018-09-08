@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: "Courier New", Courier, Monaco;
+  color: white;
+}
+img {
+  -webkit-margin-before: 0.67em;
+  -webkit-margin-bottom-before: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  width: 13.63636em;
+  height: 4.09091em;
+}
+hgroup {
+  position: absolute;
+  margin-left: -9.09091em;
+  width: 18.18182em;
+  left: 50%;
+  text-align: center;
+  font-size: 0.6875em;
+}
+time {
+  display: block;
+  font-size: 1.09091em;
+  margin: 1.33333em 0 0 0;
+  display: inline-block;
+  font-weight: normal;
+}
+#wrap {
+  margin: 0 auto;
+  width: 13.9em;
+  max-width: none;
+}
+nav {
+  font-size: 0.6875em;
+  text-align: left;
+}
+.navLink {
+  text-decoration: none;
+  color: white;
+}
+.navLink:hover {
+  background-color: red;
+}
