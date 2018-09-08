@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class LI extends React.Component {
     render() {
         let main = this.props.text.toLowerCase(),
-        maink = './' + maink;
+        maink = './' + main;
         if (main === 'by: sethu senthil') {
             maink = 'https://sethusenthil.com'
         }

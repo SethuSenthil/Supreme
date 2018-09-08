@@ -12,9 +12,9 @@ export default class LI extends React.Component {
   &nbsp;
   </time>
         <Clock
-          format={'hh:mm A'}
+          format={'hh:mma'}
           ticking={true}
-          timezone={'US/Eastern'} />
+          timezone={'US/Eastern'} /> <span>NYC</span>
         </hgroup>
         );
     }
